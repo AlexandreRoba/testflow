@@ -1,0 +1,11 @@
+{
+  "name": "testprojects",
+  "version": "0.0.1",
+  "description": "This is a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "Alexandre Roba",
+  "license": "ISC"
+}
